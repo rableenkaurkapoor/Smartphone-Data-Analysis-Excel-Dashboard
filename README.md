@@ -74,5 +74,5 @@ This view presents comparative analysis between active and background usage, pro
 ---
 
 ## 🤝 Connect With Me
-- LinkedIn: (add your link)  
+- LinkedIn: [(add your link)  ](https://www.linkedin.com/in/rableen-kaur-kapoor/)
 - Portfolio: (add your link)  
