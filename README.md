@@ -1,11 +1,11 @@
-# 📱 Smartphone Usage Analytics Dashboard
+# Smartphone Usage Analytics Dashboard
 
-## 📊 Project Overview
+## Project Overview
 In this project, I analyzed smartphone usage data to uncover patterns in app activity and battery consumption, transforming raw data into clear insights through an interactive Excel dashboard.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Analyze app-wise battery consumption  
 - Identify high-usage applications  
 - Understand user behavior patterns  
@@ -13,7 +13,7 @@ In this project, I analyzed smartphone usage data to uncover patterns in app act
 
 ---
 
-## 🛠️ Tools & Techniques Used
+## Tools & Techniques Used
 - Microsoft Excel  
 - Pivot Tables (for data aggregation & analysis)  
 - Data Cleaning & Validation  
@@ -21,7 +21,7 @@ In this project, I analyzed smartphone usage data to uncover patterns in app act
 
 ---
 
-## 📷 Charts Preview & Insights
+## Data Visuals - Charts Preview & Insights
 
 ### 🔹Annual Level -
 
@@ -50,7 +50,7 @@ This view presents comparative analysis between active and background usage, pro
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 - Identified apps contributing most to battery drain  
 - Highlighted usage trends across applications  
 - Compared active vs background usage  
@@ -58,18 +58,11 @@ This view presents comparative analysis between active and background usage, pro
 
 ---
 
-## 🚀 Learnings
+## Learnings
 - Strengthened data analysis and dashboarding skills  
 - Applied Pivot Tables for structured data analysis  
 - Improved data cleaning and validation techniques  
 - Enhanced ability to convert data into business insights  
-
----
-
-## 📌 Future Enhancements
-- Build Power BI version  
-- Add predictive analysis  
-- Integrate AI-driven insights  
 
 ---
 
